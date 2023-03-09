@@ -15,7 +15,7 @@
 
 I returned back to Tashkent with purpose of studying and building a career in the IT. Here in Tashkent lives a lot of my family members who works in IT and I am taking there advices in learning process . I am very interested in this industry and highly motivated to learn something new every day. The ability to solve problems and think creatively with team is really important in IT industry.
 
-I’ve decided to start my career as a front-end developer because front-end developers makes functional code reachable and attractive for people.
+I’ve decided to start my career as a front-end developer because front-end developers makes functional code reachable and attractive for people. I am very interested in frontend developing and highly motivated to learn something new every day.
 
 ## Skills:
  * HTML5,CSS
@@ -25,7 +25,7 @@ I’ve decided to start my career as a front-end developer because front-end dev
  * Angular and Typescript basics
  * Figma (for web development) 
 
- ## Code example: 
+## Code example: 
 ```
 getDataFromLocalStorage(key: string) {
   return JSON.parse(localStorage.getItem(key) as string);
@@ -42,7 +42,7 @@ saveDataToLocalStorage(key: string, data: User[]) {
  * RS School
 
 ## Languages
- * Russian(native)
- * English(advanced)
+ * Russian (native)
+ * English (advanced)
  * Korean (advanced)
 
