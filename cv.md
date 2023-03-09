@@ -27,12 +27,13 @@ I’ve decided to start my career as a front-end developer because front-end dev
 
 ## Code example: 
 ```
-getDataFromLocalStorage(key: string) {
-  return JSON.parse(localStorage.getItem(key) as string);
-  }
-saveDataToLocalStorage(key: string, data: User[]) {
-  localStorage.setItem(key, JSON.stringify(data));
-  }
+function evenOrOdd(number) {
+    if ( number % 2 === 0) {
+      return 'Even'  
+    } else {
+      return  'Odd'
+    }
+}
 ```
 
 ## Courses:
