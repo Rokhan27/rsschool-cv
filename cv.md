@@ -18,5 +18,31 @@ I returned back to Tashkent with purpose of studying and building a career in th
 I’ve decided to start my career as a front-end developer because front-end developers makes functional code reachable and attractive for people.
 =========
 ## Skills:
- *HTML5, 
+ * HTML5,CSS
+ * Javascript Basics
+ * Git, Github
+ * VS Code
+ * Angular and Typescript basics
+ * Figma (for web development) 
+ ========
+ ## Code example: 
+```
+getDataFromLocalStorage(key: string) {
+  return JSON.parse(localStorage.getItem(key) as string);
+  }
+saveDataToLocalStorage(key: string, data: User[]) {
+  localStorage.setItem(key, JSON.stringify(data));
+  }
+```
+========
+## Courses:
+ * HTMLacademy
+ * Udemy
+ * Coursera 
+ * RS School
+========
+## Languages
+ * Russian(native)
+ * English(advanced)
+ * Korean ()
 
